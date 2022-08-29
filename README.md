@@ -11,4 +11,4 @@ El objetivo de este proyecto es:
 El enlace a este archivo README es:
 [Enlace](https://github.com/CarlosRubioTNM/fantastic-happiness/edit/main/README.md)
 
-![logo del ITCH2](image.jpg)
+![logo del ITCH2](http://www.chihuahua2.tecnm.mx/wp-content/uploads/2017/09/cropped-ICONO-itchii-300x300.jpg)

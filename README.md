@@ -12,3 +12,11 @@ El enlace a este archivo README es:
 [Enlace](https://github.com/CarlosRubioTNM/fantastic-happiness/edit/main/README.md)
 
 ![logo del ITCH2](http://www.chihuahua2.tecnm.mx/wp-content/uploads/2017/09/cropped-ICONO-itchii-300x300.jpg)
+
+```
+{
+  "Nombre de la materia": "Programación Front End",
+  "Clave": "FS1-A",
+  "Número de alumnos": 15
+}
+```
